@@ -1,0 +1,54 @@
+.pagina-inicial{
+    display: flex;
+}
+
+.primeira-linha{
+   padding-top: 40px; 
+}
+
+.pagina-inicial img{
+    width: 100px;
+    margin: 20px;
+}
+
+.primeira-linha a{
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+    padding-left: 70px;
+}
+
+
+
+
+
+.imagens {
+    display: flex;
+}
+
+img{
+    width: 700px;
+}
+
+
+
+
+
+
+.nossas-filiais{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #a7c7a7;
+}
+
+.endereco{
+    padding: 23px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 50px;
+    font-family: 'fonte-titulos1';
+}
